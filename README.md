@@ -1,0 +1,2 @@
+# MyContentProvider
+自定义的ContentProvider，提供书籍信息表和书记分类表
